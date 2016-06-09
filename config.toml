@@ -1,0 +1,13 @@
+baseurl = "https://rcliao.github.io/"
+languageCode = "en-us"
+title = "Eric Liao, Software Developer"
+
+[Params]
+  TwitterUser = "rcliaodev"
+  GooglePlusUser = "EricLiaoDev"
+  author = "Eric Liao"
+  copyright = "&copy; Eric Liao 2016"
+  background = "imgs/header-bg-2048.jpeg"
+  logo= "https://avatars0.githubusercontent.com/u/2566047?v=3&s=460"
+  primary = "amber"
+  accent = "blue"
